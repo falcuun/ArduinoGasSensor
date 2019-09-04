@@ -1,2 +1,2 @@
 # ArduinoGasSensor
-Smelly
+Smelly gas...
